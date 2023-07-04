@@ -1,2 +1,3 @@
 # template-sv-nexysA7
 ## Template for hardware design, verification and prototipation on the Nexys A7 FPGA
+- To start the simulation, from the root folder on Modelsim, type "do sim.do"
